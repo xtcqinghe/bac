@@ -33,7 +33,7 @@
 
 B站 API 采用 C/S 结构，大多数接口为 REST API 和 gRPC，少部分接口为 WebSocket；REST API 接口请求数据大多为 url query 表单或 JSON，返回数据大多为 JSON 或 Protobuf，强制使用 https 协议
 
-📖阅读地址：[Github Pages](https://socialsisteryi.github.io/bilibili-API-collect/)
+📖阅读地址：[Github Pages](https://xtcqinghe.github.io/bac/)
 
 小小的 Demo：~~av583785685~~ [视频失效原因](https://shakaianee.top/archives/56/) ([Youtube 备链](https://www.youtube.com/watch?v=nfF91Z6fqGk))
 
